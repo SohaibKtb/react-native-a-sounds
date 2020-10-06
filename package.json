@@ -1,6 +1,6 @@
 {
   "name": "react-native-beep-sounds",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A very lite module to play system sounds and beep for react-native apps (no sound files)",
   "main": "index.js",
   "scripts": {
