@@ -1,14 +1,23 @@
-# react-native-a-beep
+# react-native-a-sounds
 A very lite module to play system sounds and beep for react-native apps (no sound files)
 
+## Original Auther
+Thanks to trietho
+
+https://github.com/trietho/react-native-a-beep
+
 ## Install
-```javascript
-npm install "react-native-a-beep"
-react-native link
+using npm:
+```js
+npm install "react-native-a-sounds"
+```
+or using yarn
+```js
+yarn add "react-native-a-sounds"
 ```
 ## Usage
 
-```javascript
+```js
 import RNBeep from 'react-native-a-beep';
 ```
 Examples:
