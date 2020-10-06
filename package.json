@@ -1,6 +1,6 @@
 {
-  "name": "@sohaib.elkhatib/react-native-a-sounds",
-  "version": "0.0.1",
+  "name": "@ktb214/react-native-beep-sounds",
+  "version": "0.0.4",
   "description": "A very lite module to play system sounds and beep for react-native apps (no sound files)",
   "main": "index.js",
   "scripts": {
@@ -11,18 +11,18 @@
     "system sounds"
   ],
   "author": "Triet Ho",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN <filename>",
   "peerDependencies": {
     "react-native": "0.63.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SohaibKtb/react-native-a-sounds.git"
+    "url": "git+https://github.com/SohaibKtb/react-native-beep-sounds.git"
   },
   "bugs": {
-    "url": "https://github.com/SohaibKtb/react-native-a-sounds/issues"
+    "url": "https://github.com/SohaibKtb/react-native-beep-sounds/issues"
   },
-  "homepage": "https://github.com/SohaibKtb/react-native-a-sounds#readme",
+  "homepage": "https://github.com/SohaibKtb/react-native-beep-sounds#readme",
   "dependencies": {},
   "devDependencies": {}
 }

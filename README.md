@@ -9,19 +9,19 @@ https://github.com/trietho/react-native-a-beep
 ## Install
 using npm:
 ```js
-npm install "react-native-a-sounds"
+npm install "react-native-beep-sounds"
 ```
 or using yarn
 ```js
-yarn add "react-native-a-sounds"
+yarn add "react-native-beep-sounds"
 ```
 ## Usage
 
 ```js
-import RNBeep from 'react-native-a-beep';
+import RNBeep from 'react-native-beep-sounds';
 ```
 Examples:
-```
+```js
 <Button onPress={ () => {RNBeep.beep()} } title="Beep Success"></Button>
 <Button onPress={ () => {RNBeep.beep(false)} } title="Beep Fail"></Button>
 <Button onPress={ () => {RNBeep.PlaySysSound(RNBeep.AndroidSoundIDs.TONE_CDMA_ABBR_ALERT)} } title="Beep Android Custom"></Button>

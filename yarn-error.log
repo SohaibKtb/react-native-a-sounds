@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-native-a-sounds
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-native-beep-sounds
 
 PATH: 
   C:\Users\sohai\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\sohai\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\ImageMagick-7.0.10-Q16-HDRI;C:\Python27;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Java\jdk-11.0.1\bin;C:\src\flutter\bin;C:\Program Files\PostgreSQL\11\bin;C:\composer;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\sohai\AppData\Local\Android\Sdk\platform-tools;C:\Gradle\gradle-6.0.1\bin;C:\Users\sohai\AppData\Local\Programs\Python\Python38;C:\Users\sohai\AppData\Local\Microsoft\WindowsApps;C:\Users\sohai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sohai\AppData\Roaming\Composer\vendor\bin;C:\Users\sohai\AppData\Roaming\npm;C:\Program Files\JetBrains\PhpStorm 2019.3.1\bin;C:\Users\sohai\AppData\Local\Yarn;C:\Apache24\bin;C:\php73\php.exe;C:\php73;C:\Program Files\PuTTY;C:\Program Files (x86)\Yarn\bin;C:\Windows\System32\OpenSSH;C:\Program Files\WinGPG\x64;C:\Users\sohai\AppData\Local\Programs\Python\Python38;C:\Users\sohai\AppData\Local\Microsoft\WindowsApps;C:\Users\sohai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-11.0.1\bin;C:\src\flutter\bin;C:\Program Files\PostgreSQL\11\bin;C:\Users\sohai\AppData\Roaming\Composer\vendor\bin;C:\xamp\php;C:\Users\sohai\AppData\Roaming\npm;C:\Program Files\JetBrains\PhpStorm 2019.3.1\bin;C:\Users\sohai\AppData\Local\Android\Sdk\platform-tools;C:\Users\sohai\AppData\Local\Android\Sdk\tools;C:\Gradle\gradle-6.0.1\bin;C:\Apache24\bin;C:\php73\php.exe;C:\php73;C:\Users\sohai\AppData\Local\Yarn\bin;C:\Program Files\WinGPG\x64;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/react-native-a-sounds: Not found
+  Error: https://registry.yarnpkg.com/react-native-beep-sounds: Not found
       at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66097:18)
       at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140749:22)
       at Request.emit (events.js:210:5)
@@ -28,8 +28,8 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@sohaib.elkhatib/react-native-a-sounds",
-    "version": "0.0.1",
+    "name": "@ktb214/react-native-beep-sounds",
+    "version": "0.0.2",
     "description": "A very lite module to play system sounds and beep for react-native apps (no sound files)",
     "main": "index.js",
     "scripts": {
@@ -46,12 +46,12 @@ npm manifest:
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/SohaibKtb/react-native-a-sounds.git"
+      "url": "git+https://github.com/SohaibKtb/react-native-beep-sounds.git"
     },
     "bugs": {
-      "url": "https://github.com/SohaibKtb/react-native-a-sounds/issues"
+      "url": "https://github.com/SohaibKtb/react-native-beep-sounds/issues"
     },
-    "homepage": "https://github.com/SohaibKtb/react-native-a-sounds#readme",
+    "homepage": "https://github.com/SohaibKtb/react-native-beep-sounds#readme",
     "dependencies": {},
     "devDependencies": {}
   }
