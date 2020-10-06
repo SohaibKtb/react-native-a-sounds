@@ -9,11 +9,11 @@ https://github.com/trietho/react-native-a-beep
 ## Install
 using npm:
 ```js
-npm install "react-native-beep-sounds"
+npm i "@ktb214/react-native-beep-sounds"
 ```
 or using yarn
 ```js
-yarn add "react-native-beep-sounds"
+yarn add "@ktb214/react-native-beep-sounds"
 ```
 ## Usage
 
